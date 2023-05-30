@@ -1,0 +1,2760 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.62, 49.017]
+      },
+      "properties": {
+        "name": "Стара Стужиця",
+        "set": "LAZO",
+        "number": "1"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.661, 49.01]
+      },
+      "properties": {
+        "name": "Загорб",
+        "set": "LAZO",
+        "number": "2"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.72, 49.028]
+      },
+      "properties": {
+        "name": "Лубня",
+        "set": "LAZO",
+        "number": "3"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.774, 49.014]
+      },
+      "properties": {
+        "name": "Верховина Бистра",
+        "set": "LAZO",
+        "number": "4"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.453, 48.886]
+      },
+      "properties": {
+        "name": "Великий Березний",
+        "set": "LAZO",
+        "number": "5"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.4, 48.857]
+      },
+      "properties": {
+        "name": "Завосина",
+        "set": "LAZO",
+        "number": "6"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.512, 48.974]
+      },
+      "properties": {
+        "name": "Княгинин",
+        "set": "LAZO",
+        "number": "7"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.486, 48.96]
+      },
+      "properties": {
+        "name": "Стричава",
+        "set": "LAZO",
+        "number": "8"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.55, 48.97]
+      },
+      "properties": {
+        "name": "Домашин",
+        "set": "LAZO",
+        "number": "9"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.589, 48.941]
+      },
+      "properties": {
+        "name": "Кострина",
+        "set": "LAZO",
+        "number": "10"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.458, 48.929]
+      },
+      "properties": {
+        "name": "Забродь",
+        "set": "LAZO",
+        "number": "11"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.528, 48.899]
+      },
+      "properties": {
+        "name": "Мочар",
+        "set": "LAZO",
+        "number": "12"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.53, 48.877]
+      },
+      "properties": {
+        "name": "Розтоцька Пастіль",
+        "set": "LAZO",
+        "number": "13"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.603, 48.853]
+      },
+      "properties": {
+        "name": "Чорноголова",
+        "set": "LAZO",
+        "number": "14"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.495, 48.827]
+      },
+      "properties": {
+        "name": "Пастільки",
+        "set": "LAZO",
+        "number": "15"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.696, 48.993]
+      },
+      "properties": {
+        "name": "Ставне",
+        "set": "LAZO",
+        "number": "16"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.809, 48.983]
+      },
+      "properties": {
+        "name": "Волосянка",
+        "set": "LAZO",
+        "number": "17"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.692, 48.943]
+      },
+      "properties": {
+        "name": "Вишка",
+        "set": "LAZO",
+        "number": "18"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.82, 48.926]
+      },
+      "properties": {
+        "name": "Тихий",
+        "set": "LAZO",
+        "number": "19"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.772, 48.898]
+      },
+      "properties": {
+        "name": "Люта",
+        "set": "LAZO",
+        "number": "20"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.861, 48.985]
+      },
+      "properties": {
+        "name": "Ужок",
+        "set": "LAZO",
+        "number": "21"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.846, 48.946]
+      },
+      "properties": {
+        "name": "Гусний",
+        "set": "LAZO",
+        "number": "22"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.879, 48.891]
+      },
+      "properties": {
+        "name": "Розтока",
+        "set": "LAZO",
+        "number": "23"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.935, 48.861]
+      },
+      "properties": {
+        "name": "Буковець",
+        "set": "LAZO",
+        "number": "24"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.467, 48.829]
+      },
+      "properties": {
+        "name": "Мирча",
+        "set": "LAZO",
+        "number": "25"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.429, 48.797]
+      },
+      "properties": {
+        "name": "Новоселиця",
+        "set": "LAZO",
+        "number": "26"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.474, 48.735]
+      },
+      "properties": {
+        "name": "Перечин",
+        "set": "LAZO",
+        "number": "27"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.449, 48.715]
+      },
+      "properties": {
+        "name": "Ворочово",
+        "set": "LAZO",
+        "number": "28"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.417, 48.693]
+      },
+      "properties": {
+        "name": "Кам’яниця",
+        "set": "LAZO",
+        "number": "29"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.393, 48.676]
+      },
+      "properties": {
+        "name": "Невицьке",
+        "set": "LAZO",
+        "number": "30"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.493, 48.802]
+      },
+      "properties": {
+        "name": "Дубринич",
+        "set": "LAZO",
+        "number": "31"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.639, 48.803]
+      },
+      "properties": {
+        "name": "Смерекова",
+        "set": "LAZO",
+        "number": "32"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.574, 48.756]
+      },
+      "properties": {
+        "name": "Сімерки",
+        "set": "LAZO",
+        "number": "33"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.642, 48.78]
+      },
+      "properties": {
+        "name": "Вільшанки",
+        "set": "LAZO",
+        "number": "34"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.596, 48.72]
+      },
+      "properties": {
+        "name": "Тур’ї Ремети",
+        "set": "LAZO",
+        "number": "35"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.64, 48.728]
+      },
+      "properties": {
+        "name": "Туриця",
+        "set": "LAZO",
+        "number": "36"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.674, 48.825]
+      },
+      "properties": {
+        "name": "Буківцева",
+        "set": "LAZO",
+        "number": "37"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.714, 48.801]
+      },
+      "properties": {
+        "name": "Лумшори",
+        "set": "LAZO",
+        "number": "38"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.722, 48.779]
+      },
+      "properties": {
+        "name": "Ликицари",
+        "set": "LAZO",
+        "number": "39"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.803, 48.701]
+      },
+      "properties": {
+        "name": "Тур’я Поляна",
+        "set": "LAZO",
+        "number": "40"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.678, 48.683]
+      },
+      "properties": {
+        "name": "Тур’я Пасіка",
+        "set": "LAZO",
+        "number": "41"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.753, 48.672]
+      },
+      "properties": {
+        "name": "Порошково",
+        "set": "LAZO",
+        "number": "42"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.811, 48.66]
+      },
+      "properties": {
+        "name": "Тур’я Бистра",
+        "set": "LAZO",
+        "number": "43"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.944, 48.816]
+      },
+      "properties": {
+        "name": "Пашківці",
+        "set": "LAZO",
+        "number": "44"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.976, 48.773]
+      },
+      "properties": {
+        "name": "Жденієво",
+        "set": "LAZO",
+        "number": "45"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.982, 48.727]
+      },
+      "properties": {
+        "name": "Верхня Грабівниця",
+        "set": "LAZO",
+        "number": "46"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.896, 48.698]
+      },
+      "properties": {
+        "name": "Родниківка (Ізвор)",
+        "set": "LAZO",
+        "number": "47"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.879, 48.669]
+      },
+      "properties": {
+        "name": "Оленьово",
+        "set": "LAZO",
+        "number": "48"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.054, 48.832]
+      },
+      "properties": {
+        "name": "Мішкаровиця",
+        "set": "LAZO",
+        "number": "49"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.144, 48.81]
+      },
+      "properties": {
+        "name": "Нова Розтока",
+        "set": "LAZO",
+        "number": "50"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.099, 48.771]
+      },
+      "properties": {
+        "name": "Нижні Ворота (Нижні Верецьки)",
+        "set": "LAZO",
+        "number": "51"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.14, 48.746]
+      },
+      "properties": {
+        "name": "Верхні Ворота (Верхні Верецьки)",
+        "set": "LAZO",
+        "number": "52"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.024, 48.742]
+      },
+      "properties": {
+        "name": "Підполоззя",
+        "set": "LAZO",
+        "number": "53"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.185, 48.715]
+      },
+      "properties": {
+        "name": "Воловець",
+        "set": "LAZO",
+        "number": "54"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.265, 48.733]
+      },
+      "properties": {
+        "name": "Скотарське",
+        "set": "LAZO",
+        "number": "55"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.233, 48.701]
+      },
+      "properties": {
+        "name": "Гукливий",
+        "set": "LAZO",
+        "number": "56"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.353, 48.736]
+      },
+      "properties": {
+        "name": "Верхній Студений",
+        "set": "LAZO",
+        "number": "57"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.366, 48.65]
+      },
+      "properties": {
+        "name": "Ізки",
+        "set": "LAZO",
+        "number": "58"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.498, 48.714]
+      },
+      "properties": {
+        "name": "Новоселиця",
+        "set": "LAZO",
+        "number": "59"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.598, 48.669]
+      },
+      "properties": {
+        "name": "Торунь",
+        "set": "LAZO",
+        "number": "60"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.297, 48.554]
+      },
+      "properties": {
+        "name": "Коритняни",
+        "set": "LAZO",
+        "number": "61"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.347, 48.654]
+      },
+      "properties": {
+        "name": "Оноківці",
+        "set": "LAZO",
+        "number": "62"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.397, 48.652]
+      },
+      "properties": {
+        "name": "Оріховиця",
+        "set": "LAZO",
+        "number": "63"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.399, 48.622]
+      },
+      "properties": {
+        "name": "Стрипа",
+        "set": "LAZO",
+        "number": "64"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.332, 48.604]
+      },
+      "properties": {
+        "name": "Горяни",
+        "set": "LAZO",
+        "number": "65"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.39, 48.594]
+      },
+      "properties": {
+        "name": "Циганівці",
+        "set": "LAZO",
+        "number": "66"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.477, 48.586]
+      },
+      "properties": {
+        "name": "Худльово",
+        "set": "LAZO",
+        "number": "67"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.391, 48.563]
+      },
+      "properties": {
+        "name": "Великі Лази",
+        "set": "LAZO",
+        "number": "68"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.342, 48.527]
+      },
+      "properties": {
+        "name": "Довге Поле",
+        "set": "LAZO",
+        "number": "69"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.438, 48.522]
+      },
+      "properties": {
+        "name": "Комарівці",
+        "set": "LAZO",
+        "number": "70"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.469, 48.524]
+      },
+      "properties": {
+        "name": "Вовкове (Вовковиї)",
+        "set": "LAZO",
+        "number": "71"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.514, 48.627]
+      },
+      "properties": {
+        "name": "Антонівка (Анталовці)",
+        "set": "LAZO",
+        "number": "72"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.605, 48.586]
+      },
+      "properties": {
+        "name": "Пацканьово",
+        "set": "LAZO",
+        "number": "73"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.507, 48.541]
+      },
+      "properties": {
+        "name": "Середнє",
+        "set": "LAZO",
+        "number": "74"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.598, 48.519]
+      },
+      "properties": {
+        "name": "Кальник",
+        "set": "LAZO",
+        "number": "75"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.724, 48.623]
+      },
+      "properties": {
+        "name": "Пузняківці",
+        "set": "LAZO",
+        "number": "76"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.752, 48.604]
+      },
+      "properties": {
+        "name": "Грабово",
+        "set": "LAZO",
+        "number": "77"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.67, 48.528]
+      },
+      "properties": {
+        "name": "Бобовищі",
+        "set": "LAZO",
+        "number": "78"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.745, 48.544]
+      },
+      "properties": {
+        "name": "Верхня Візниця",
+        "set": "LAZO",
+        "number": "79"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.914, 48.647]
+      },
+      "properties": {
+        "name": "Павлово",
+        "set": "LAZO",
+        "number": "80"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.966, 48.622]
+      },
+      "properties": {
+        "name": "Поляна",
+        "set": "LAZO",
+        "number": "81"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.973, 48.571]
+      },
+      "properties": {
+        "name": "Голубине",
+        "set": "LAZO",
+        "number": "82"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.907, 48.531]
+      },
+      "properties": {
+        "name": "Пасіка",
+        "set": "LAZO",
+        "number": "83"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.835, 48.51]
+      },
+      "properties": {
+        "name": "Нижня Грабівниця",
+        "set": "LAZO",
+        "number": "84"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.052, 48.634]
+      },
+      "properties": {
+        "name": "Ганьковиця",
+        "set": "LAZO",
+        "number": "85"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.988, 48.546]
+      },
+      "properties": {
+        "name": "Свалява",
+        "set": "LAZO",
+        "number": "86"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.031, 48.563]
+      },
+      "properties": {
+        "name": "Неліпине",
+        "set": "LAZO",
+        "number": "87"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.036, 48.527]
+      },
+      "properties": {
+        "name": "Стройно",
+        "set": "LAZO",
+        "number": "88"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.105, 48.511]
+      },
+      "properties": {
+        "name": "Дусино",
+        "set": "LAZO",
+        "number": "89"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.341, 48.67]
+      },
+      "properties": {
+        "name": "Пилипець",
+        "set": "LAZO",
+        "number": "90"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.218, 48.513]
+      },
+      "properties": {
+        "name": "Березник",
+        "set": "LAZO",
+        "number": "91"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.39, 48.625]
+      },
+      "properties": {
+        "name": "Келечин",
+        "set": "LAZO",
+        "number": "92"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.431, 48.636]
+      },
+      "properties": {
+        "name": "Голятин",
+        "set": "LAZO",
+        "number": "93"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.444, 48.584]
+      },
+      "properties": {
+        "name": "Репине",
+        "set": "LAZO",
+        "number": "94"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.489, 48.605]
+      },
+      "properties": {
+        "name": "Майдан",
+        "set": "LAZO",
+        "number": "95"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.503, 48.524]
+      },
+      "properties": {
+        "name": "Міжгір’я (Волове)",
+        "set": "LAZO",
+        "number": "96"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.691, 48.586]
+      },
+      "properties": {
+        "name": "Синевірська Поляна",
+        "set": "LAZO",
+        "number": "97"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.515, 48.485]
+      },
+      "properties": {
+        "name": "Зняцево",
+        "set": "LAZO",
+        "number": "98"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.582, 48.482]
+      },
+      "properties": {
+        "name": "Бенедиківці",
+        "set": "LAZO",
+        "number": "99"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.618, 48.475]
+      },
+      "properties": {
+        "name": "Руське",
+        "set": "LAZO",
+        "number": "100"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.637, 48.456]
+      },
+      "properties": {
+        "name": "Старе Давидково",
+        "set": "LAZO",
+        "number": "101"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.573, 48.419]
+      },
+      "properties": {
+        "name": "Великі Лучки",
+        "set": "LAZO",
+        "number": "102"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.641, 48.418]
+      },
+      "properties": {
+        "name": "Ключарки",
+        "set": "LAZO",
+        "number": "103"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.565, 48.381]
+      },
+      "properties": {
+        "name": "Горонда",
+        "set": "LAZO",
+        "number": "104"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.695, 48.482]
+      },
+      "properties": {
+        "name": "Лавки",
+        "set": "LAZO",
+        "number": "105"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.71, 48.452]
+      },
+      "properties": {
+        "name": "Росвигово",
+        "set": "LAZO",
+        "number": "106"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.754, 48.455]
+      },
+      "properties": {
+        "name": "Підгоряни",
+        "set": "LAZO",
+        "number": "107"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.813, 48.404]
+      },
+      "properties": {
+        "name": "Лалово",
+        "set": "LAZO",
+        "number": "108"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.802, 48.363]
+      },
+      "properties": {
+        "name": "Пістрялово",
+        "set": "LAZO",
+        "number": "109"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.77, 48.339]
+      },
+      "properties": {
+        "name": "Бородівка (Барбово)",
+        "set": "LAZO",
+        "number": "110"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.812, 48.481]
+      },
+      "properties": {
+        "name": "Чинадієво",
+        "set": "LAZO",
+        "number": "111"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.881, 48.471]
+      },
+      "properties": {
+        "name": "Лецовиця",
+        "set": "LAZO",
+        "number": "112"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.908, 48.452]
+      },
+      "properties": {
+        "name": "Бабич-Покуття",
+        "set": "LAZO",
+        "number": "113"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.835, 48.384]
+      },
+      "properties": {
+        "name": "Зубівка (Фогараш)",
+        "set": "LAZO",
+        "number": "114"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.948, 48.395]
+      },
+      "properties": {
+        "name": "Загаття",
+        "set": "LAZO",
+        "number": "115"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.901, 48.353]
+      },
+      "properties": {
+        "name": "Доробратово",
+        "set": "LAZO",
+        "number": "116"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.951, 48.33]
+      },
+      "properties": {
+        "name": "Арданово",
+        "set": "LAZO",
+        "number": "117"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.015, 48.42]
+      },
+      "properties": {
+        "name": "Крайня Мартинка",
+        "set": "LAZO",
+        "number": "118"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.027, 48.398]
+      },
+      "properties": {
+        "name": "Підгірне (Волоське)",
+        "set": "LAZO",
+        "number": "119"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.079, 48.353]
+      },
+      "properties": {
+        "name": "Ільниця",
+        "set": "LAZO",
+        "number": "120"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.114, 48.358]
+      },
+      "properties": {
+        "name": "Осій",
+        "set": "LAZO",
+        "number": "121"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.221, 48.479]
+      },
+      "properties": {
+        "name": "Керецьки",
+        "set": "LAZO",
+        "number": "122"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.273, 48.489]
+      },
+      "properties": {
+        "name": "Лисичово",
+        "set": "LAZO",
+        "number": "123"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.252, 48.438]
+      },
+      "properties": {
+        "name": "Кушниця",
+        "set": "LAZO",
+        "number": "124"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.28, 48.366]
+      },
+      "properties": {
+        "name": "Довге",
+        "set": "LAZO",
+        "number": "125"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.359, 48.331]
+      },
+      "properties": {
+        "name": "Липецька Поляна",
+        "set": "LAZO",
+        "number": "126"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.624, 48.486]
+      },
+      "properties": {
+        "name": "Синевір",
+        "set": "LAZO",
+        "number": "127"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.539, 48.449]
+      },
+      "properties": {
+        "name": "Вучкове",
+        "set": "LAZO",
+        "number": "128"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.647, 48.454]
+      },
+      "properties": {
+        "name": "Негровець",
+        "set": "LAZO",
+        "number": "129"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.534, 48.355]
+      },
+      "properties": {
+        "name": "Нижній Бистрий",
+        "set": "LAZO",
+        "number": "130"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.698, 48.426]
+      },
+      "properties": {
+        "name": "Колочава-Лази",
+        "set": "LAZO",
+        "number": "131"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.899, 48.351]
+      },
+      "properties": {
+        "name": "Мокре (Руська Мокра)",
+        "set": "LAZO",
+        "number": "132"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.968, 48.366]
+      },
+      "properties": {
+        "name": "Лопухів (Брустури)",
+        "set": "LAZO",
+        "number": "133"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.8, 48.328]
+      },
+      "properties": {
+        "name": "Макарево",
+        "set": "LAZO",
+        "number": "134"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.769, 48.188]
+      },
+      "properties": {
+        "name": "Квасово",
+        "set": "LAZO",
+        "number": "135"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.875, 48.311]
+      },
+      "properties": {
+        "name": "Горбок (Шаркадь)",
+        "set": "LAZO",
+        "number": "136"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.863, 48.267]
+      },
+      "properties": {
+        "name": "Верхні Ремети",
+        "set": "LAZO",
+        "number": "137"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.944, 48.279]
+      },
+      "properties": {
+        "name": "Кам’янське (Кив’яжд)",
+        "set": "LAZO",
+        "number": "138"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.832, 48.256]
+      },
+      "properties": {
+        "name": "Нижні Ремети",
+        "set": "LAZO",
+        "number": "139"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.982, 48.236]
+      },
+      "properties": {
+        "name": "Великі Ком’яти",
+        "set": "LAZO",
+        "number": "140"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.04, 48.312]
+      },
+      "properties": {
+        "name": "Іршава",
+        "set": "LAZO",
+        "number": "141"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.134, 48.311]
+      },
+      "properties": {
+        "name": "Білки",
+        "set": "LAZO",
+        "number": "142"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.998, 48.276]
+      },
+      "properties": {
+        "name": "Заріччя",
+        "set": "LAZO",
+        "number": "143"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.055, 48.283]
+      },
+      "properties": {
+        "name": "Гребля",
+        "set": "LAZO",
+        "number": "144"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.149, 48.275]
+      },
+      "properties": {
+        "name": "Великий Раковець",
+        "set": "LAZO",
+        "number": "145"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23, 48.219]
+      },
+      "properties": {
+        "name": "Оник",
+        "set": "LAZO",
+        "number": "146"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.114, 48.215]
+      },
+      "properties": {
+        "name": "Широке (Верхній Шард)",
+        "set": "LAZO",
+        "number": "147"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.119, 48.191]
+      },
+      "properties": {
+        "name": "Велика Копаня",
+        "set": "LAZO",
+        "number": "148"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.21, 48.319]
+      },
+      "properties": {
+        "name": "Луково",
+        "set": "LAZO",
+        "number": "149"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.209, 48.262]
+      },
+      "properties": {
+        "name": "Малий Раковець",
+        "set": "LAZO",
+        "number": "150"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.181, 48.21]
+      },
+      "properties": {
+        "name": "Рокосово",
+        "set": "LAZO",
+        "number": "151"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.326, 48.215]
+      },
+      "properties": {
+        "name": "Іза",
+        "set": "LAZO",
+        "number": "152"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.387, 48.156]
+      },
+      "properties": {
+        "name": "Боронява",
+        "set": "LAZO",
+        "number": "153"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.476, 48.301]
+      },
+      "properties": {
+        "name": "Березово",
+        "set": "LAZO",
+        "number": "154"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.377, 48.258]
+      },
+      "properties": {
+        "name": "Липча",
+        "set": "LAZO",
+        "number": "155"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.432, 48.27]
+      },
+      "properties": {
+        "name": "Горінчово",
+        "set": "LAZO",
+        "number": "156"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.334, 48.239]
+      },
+      "properties": {
+        "name": "Кошельово",
+        "set": "LAZO",
+        "number": "157"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.415, 48.194]
+      },
+      "properties": {
+        "name": "Нанково",
+        "set": "LAZO",
+        "number": "158"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.599, 48.327]
+      },
+      "properties": {
+        "name": "Глисна",
+        "set": "LAZO",
+        "number": "159"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.549, 48.238]
+      },
+      "properties": {
+        "name": "Драгово",
+        "set": "LAZO",
+        "number": "160"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.5, 48.192]
+      },
+      "properties": {
+        "name": "Золотарево",
+        "set": "LAZO",
+        "number": "161"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.545, 48.191]
+      },
+      "properties": {
+        "name": "Чумалево",
+        "set": "LAZO",
+        "number": "162"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.756, 48.215]
+      },
+      "properties": {
+        "name": "Широкий Луг",
+        "set": "LAZO",
+        "number": "163"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.93, 48.222]
+      },
+      "properties": {
+        "name": "Красне (Красні Шори)",
+        "set": "LAZO",
+        "number": "164"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.89, 48.195]
+      },
+      "properties": {
+        "name": "Дубове",
+        "set": "LAZO",
+        "number": "165"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.328, 48.309]
+      },
+      "properties": {
+        "name": "Чорна Тиса",
+        "set": "LAZO",
+        "number": "166"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.349, 48.259]
+      },
+      "properties": {
+        "name": "Ясіня",
+        "set": "LAZO",
+        "number": "167"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.414, 48.273]
+      },
+      "properties": {
+        "name": "Лазіщина",
+        "set": "LAZO",
+        "number": "168"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.961, 48.163]
+      },
+      "properties": {
+        "name": "Олешник (Єгреш)",
+        "set": "LAZO",
+        "number": "169"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.969, 48.138]
+      },
+      "properties": {
+        "name": "Підвиноградів (Ардовець)",
+        "set": "LAZO",
+        "number": "170"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.951, 48.097]
+      },
+      "properties": {
+        "name": "Тросник (Шашвар)",
+        "set": "LAZO",
+        "number": "171"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.156, 48.167]
+      },
+      "properties": {
+        "name": "Веряця",
+        "set": "LAZO",
+        "number": "172"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.053, 48.078]
+      },
+      "properties": {
+        "name": "Чорнотисів (Чорний Ардів)",
+        "set": "LAZO",
+        "number": "173"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.987, 48.065]
+      },
+      "properties": {
+        "name": "Затисівка (Чома)",
+        "set": "LAZO",
+        "number": "174"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.095, 48.058]
+      },
+      "properties": {
+        "name": "Холмовець",
+        "set": "LAZO",
+        "number": "175"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.19, 48.136]
+      },
+      "properties": {
+        "name": "Черна",
+        "set": "LAZO",
+        "number": "176"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.226, 48.131]
+      },
+      "properties": {
+        "name": "Новоселиця",
+        "set": "LAZO",
+        "number": "177"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.312, 48.108]
+      },
+      "properties": {
+        "name": "Велятин",
+        "set": "LAZO",
+        "number": "178"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.397, 48.119]
+      },
+      "properties": {
+        "name": "Сокирниця",
+        "set": "LAZO",
+        "number": "179"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.422, 48.091]
+      },
+      "properties": {
+        "name": "Стеблівка (Салдобош)",
+        "set": "LAZO",
+        "number": "180"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.421, 48.051]
+      },
+      "properties": {
+        "name": "Вишково",
+        "set": "LAZO",
+        "number": "181"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.482, 48.05]
+      },
+      "properties": {
+        "name": "Буштино",
+        "set": "LAZO",
+        "number": "182"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.588, 48.143]
+      },
+      "properties": {
+        "name": "Дулово",
+        "set": "LAZO",
+        "number": "183"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.628, 48.151]
+      },
+      "properties": {
+        "name": "Угля",
+        "set": "LAZO",
+        "number": "184"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.596, 48.113]
+      },
+      "properties": {
+        "name": "Теребля",
+        "set": "LAZO",
+        "number": "185"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.499, 48.102]
+      },
+      "properties": {
+        "name": "Новобарово",
+        "set": "LAZO",
+        "number": "186"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.525, 48.075]
+      },
+      "properties": {
+        "name": "Вонігово",
+        "set": "LAZO",
+        "number": "187"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.533, 48.058]
+      },
+      "properties": {
+        "name": "Руське поле (Урмезієво)",
+        "set": "LAZO",
+        "number": "188"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.575, 48.014]
+      },
+      "properties": {
+        "name": "Тячів",
+        "set": "LAZO",
+        "number": "189"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.663, 48.004]
+      },
+      "properties": {
+        "name": "Бедевля",
+        "set": "LAZO",
+        "number": "190"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.767, 48.118]
+      },
+      "properties": {
+        "name": "Нересниця",
+        "set": "LAZO",
+        "number": "191"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.739, 48.097]
+      },
+      "properties": {
+        "name": "Вільхівці",
+        "set": "LAZO",
+        "number": "192"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.828, 48.128]
+      },
+      "properties": {
+        "name": "Ганичі",
+        "set": "LAZO",
+        "number": "193"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.714, 48.064]
+      },
+      "properties": {
+        "name": "Добрянське (Нягово)",
+        "set": "LAZO",
+        "number": "194"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.698, 47.999]
+      },
+      "properties": {
+        "name": "Тересва",
+        "set": "LAZO",
+        "number": "195"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.768, 48.006]
+      },
+      "properties": {
+        "name": "Грушово",
+        "set": "LAZO",
+        "number": "196"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.875, 48.141]
+      },
+      "properties": {
+        "name": "Калини",
+        "set": "LAZO",
+        "number": "197"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.959, 48.076]
+      },
+      "properties": {
+        "name": "Водиця (Апшиця)",
+        "set": "LAZO",
+        "number": "198"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.97, 48.007]
+      },
+      "properties": {
+        "name": "Верхнє Водяне (Верхня Апша)",
+        "set": "LAZO",
+        "number": "199"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.069, 48.057]
+      },
+      "properties": {
+        "name": "Кобилецька Поляна",
+        "set": "LAZO",
+        "number": "200"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.114, 48.005]
+      },
+      "properties": {
+        "name": "Косівська Поляна",
+        "set": "LAZO",
+        "number": "201"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.282, 48.148]
+      },
+      "properties": {
+        "name": "Кваси",
+        "set": "LAZO",
+        "number": "202"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.255, 48.105]
+      },
+      "properties": {
+        "name": "Білин",
+        "set": "LAZO",
+        "number": "203"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.208, 48.051]
+      },
+      "properties": {
+        "name": "Рахів",
+        "set": "LAZO",
+        "number": "204"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.294, 48.064]
+      },
+      "properties": {
+        "name": "Розтоки",
+        "set": "LAZO",
+        "number": "205"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.437, 48.064]
+      },
+      "properties": {
+        "name": "Богдан-Луги",
+        "set": "LAZO",
+        "number": "206"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.346, 48.04]
+      },
+      "properties": {
+        "name": "Богдан",
+        "set": "LAZO",
+        "number": "207"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.008, 47.969]
+      },
+      "properties": {
+        "name": "Великий Бичків (Великий Бочків)",
+        "set": "LAZO",
+        "number": "208"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.068, 47.987]
+      },
+      "properties": {
+        "name": "Росішка",
+        "set": "LAZO",
+        "number": "209"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.057, 47.959]
+      },
+      "properties": {
+        "name": "Луг",
+        "set": "LAZO",
+        "number": "210"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.203, 47.993]
+      },
+      "properties": {
+        "name": "Костилівка (Берлебаш)",
+        "set": "LAZO",
+        "number": "211"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.173, 47.935]
+      },
+      "properties": {
+        "name": "Ділове (Требушани)",
+        "set": "LAZO",
+        "number": "212"
+      }
+    }
+  ]
+}
