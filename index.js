@@ -1,13 +1,16 @@
 // import current data set
 import { legend, pointdata } from "./LAZO 121.js";
 
+// marker .png files width in px
+const markerWidth = 12;
+
 // remove the portion irrelevant to the legend
 function removeSuffix(item) {
   return item.replace("-mini", "");
 }
 
-// generate a legend-based description for a given point
-function legendHandler(number) {
+// use legend to generate popup text for a given point
+function popupHandler(number) {
   const result = [];
   const value = pointdata[number].split(" ");
   value.forEach((item) => {
@@ -17,10 +20,24 @@ function legendHandler(number) {
   return result.join("; ");
 }
 
-// generate an icon for a given point: to be completed
+// access the value in a given point
+function valueHandler(number) {
+  return pointdata[number].split(" ");
+}
+
+// generate an icon for a given point
 function iconHandler(number) {
-  const value = pointdata[number].split(" ");
-  return `<img src="./${value[0]}.png" alt="">`;
+  const value = valueHandler(number);
+  let iconHTML = "";
+  value.forEach((item) => {
+    iconHTML = iconHTML + `<img src="./${item}.png" alt="">`;
+  });
+  return iconHTML;
+}
+
+// centers the icon horizontally
+function anchorHandler(number) {
+  return valueHandler(number).length * (markerWidth / 2);
 }
 
 // import the main json
@@ -31,12 +48,13 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
       layer.bindPopup(
         `${feature.properties.number}. ${
           feature.properties.name
-        }: ${legendHandler(feature.properties.number)}`
+        }: ${popupHandler(feature.properties.number)}`
       );
     },
     pointToLayer: function (feature, latlng) {
       var dynIcon = new L.divIcon({
         html: `${iconHandler(feature.properties.number)}`,
+        iconAnchor: [anchorHandler(feature.properties.number), 0],
         className: "map-icon",
       });
 
@@ -60,8 +78,3 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
   geojson.addTo(map);
 });
-
-// var map = L.map("map").setView([48.55, 23.4], 8);
-
-// var geojsonLayer = new L.GeoJSON.AJAX("./LAZO.json");
-// geojsonLayer.addTo(map);
