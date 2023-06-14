@@ -1,6 +1,9 @@
 // import current data set
 import { legend, pointdata } from "./LAZO 121.js";
 
+const button = document.querySelector("button");
+let booleans = ["hlines", "black"];
+
 // marker .png files width in px
 const markerWidth = 12;
 
@@ -65,9 +68,19 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         icon: dynIcon,
       });
     },
+    filter: (feature) => {
+      const value = pointdata[feature.properties.number].split(" ");
+      value.forEach((item) => (item = removeSuffix(item)));
+      return value.some((item) => booleans.includes(item));
+
+      // return numbers.includes(feature.properties.number);
+      // return Math.random() < 0.5;
+    },
   });
-  // assign to a new map with data-derived coordinates
-  var map = L.map("map").fitBounds(geojson.getBounds());
+
+  // create a new map with data-derived coordinates
+  var boundsLayer = L.geoJson(data);
+  var map = L.map("map").fitBounds(boundsLayer.getBounds());
 
   // load OSM tiles
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -77,4 +90,10 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
   }).addTo(map);
 
   geojson.addTo(map);
+
+  button.addEventListener("click", function () {
+    booleans.push("xlines");
+    geojson.clearLayers();
+    geojson.addData(data);
+  });
 });
