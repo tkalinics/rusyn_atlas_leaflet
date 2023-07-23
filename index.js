@@ -1,7 +1,7 @@
 // import current data set
 import { legend, pointdata } from "./LAZO 121.js";
 
-// marker toggle prototype
+// prepare boolean array for filtering values
 const legendKeys = Object.keys(legend);
 const legendMap = legendKeys.map((item) => ({ [item]: true }));
 const legendBool = Object.assign({}, ...legendMap);
@@ -72,12 +72,11 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
       });
     },
     filter: (feature) => {
+      // obtain the point values
       const value = pointdata[feature.properties.number].split(" ");
-      value.forEach((item) => (item = removeSuffix(item)));
+      value.forEach((item, index) => (value[index] = removeSuffix(item)));
+      // only display points with enabled values
       return value.some((item) => legendBool[item]);
-
-      // return numbers.includes(feature.properties.number);
-      // return Math.random() < 0.5;
     },
   });
 
@@ -94,7 +93,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
   geojson.addTo(map);
 
-  // marker toggle prototype
+  // create checkbox toggles based on values
   legendKeys.forEach(function (item) {
     const checkbox = document.createElement("input");
     checkbox.type = "checkbox";
@@ -112,7 +111,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
     const skipLine = document.createElement("br");
 
-    // add to the final HTML array
+    // add to the HTML page
     document.body.appendChild(checkbox);
     document.body.appendChild(checkboxIcon);
     document.body.appendChild(checkboxLabel);
@@ -124,6 +123,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     // obtain checkbox status AFTER the click
     const checkboxElement = document.getElementById(`checkbox${item}`);
     legendBool[item] = checkboxElement.checked;
+    // reload map data based on the new toggle state
     geojson.clearLayers();
     geojson.addData(data);
   }
