@@ -1,8 +1,11 @@
 // import current data set
 import { legend, pointdata } from "./LAZO 121.js";
 
+// marker toggle prototype
 const button = document.querySelector("button");
-let booleans = ["hlines", "black"];
+const legendKeys = Object.keys(legend);
+const legendMap = legendKeys.map((item) => ({ [item]: true }));
+const legendBool = Object.assign({}, ...legendMap);
 
 // marker .png files width in px
 const markerWidth = 12;
@@ -55,6 +58,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
       );
     },
     pointToLayer: function (feature, latlng) {
+      // dynamic icon properties
       var dynIcon = new L.divIcon({
         html: `${iconHandler(feature.properties.number)}`,
         iconAnchor: [anchorHandler(feature.properties.number), 0],
@@ -71,7 +75,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     filter: (feature) => {
       const value = pointdata[feature.properties.number].split(" ");
       value.forEach((item) => (item = removeSuffix(item)));
-      return value.some((item) => booleans.includes(item));
+      return value.some((item) => legendBool[item]);
 
       // return numbers.includes(feature.properties.number);
       // return Math.random() < 0.5;
@@ -92,7 +96,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
   geojson.addTo(map);
 
   button.addEventListener("click", function () {
-    booleans.push("xlines");
+    legendBool["xlines"] = !legendBool["xlines"];
     geojson.clearLayers();
     geojson.addData(data);
   });
