@@ -2,7 +2,6 @@
 import { legend, pointdata } from "./LAZO 121.js";
 
 // marker toggle prototype
-const button = document.querySelector("button");
 const legendKeys = Object.keys(legend);
 const legendMap = legendKeys.map((item) => ({ [item]: true }));
 const legendBool = Object.assign({}, ...legendMap);
@@ -95,9 +94,37 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
   geojson.addTo(map);
 
-  button.addEventListener("click", function () {
-    legendBool["xlines"] = !legendBool["xlines"];
+  // marker toggle prototype
+  legendKeys.forEach(function (item) {
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.id = `checkbox${item}`;
+    checkbox.checked = true;
+    checkbox.onclick = function () {
+      toggleLayer(item);
+    };
+
+    const checkboxIcon = document.createElement("img");
+    checkboxIcon.src = `./${item}.png`;
+    const checkboxLabel = document.createElement("label");
+    checkboxLabel.for = `checkbox${item}`;
+    checkboxLabel.innerHTML = legend[item];
+
+    const skipLine = document.createElement("br");
+
+    // add to the final HTML array
+    document.body.appendChild(checkbox);
+    document.body.appendChild(checkboxIcon);
+    document.body.appendChild(checkboxLabel);
+    document.body.appendChild(skipLine);
+  });
+
+  // checkbox toggle function
+  function toggleLayer(item) {
+    // obtain checkbox status AFTER the click
+    const checkboxElement = document.getElementById(`checkbox${item}`);
+    legendBool[item] = checkboxElement.checked;
     geojson.clearLayers();
     geojson.addData(data);
-  });
+  }
 });
