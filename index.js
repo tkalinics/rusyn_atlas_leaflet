@@ -1,5 +1,5 @@
 // import current data set
-import { legend, pointdata } from "./LAZO 121.js";
+import { description, legend, pointdata } from "./LAZO 121.js";
 
 // prepare boolean array for filtering values
 const legendKeys = Object.keys(legend);
@@ -94,6 +94,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
   geojson.addTo(map);
 
   // create checkbox toggles based on values
+  const controlFragment = document.createDocumentFragment();
+
   legendKeys.forEach(function (item) {
     const checkbox = document.createElement("input");
     checkbox.type = "checkbox";
@@ -112,10 +114,10 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     const skipLine = document.createElement("br");
 
     // add to the HTML page
-    document.body.appendChild(checkbox);
-    document.body.appendChild(checkboxIcon);
-    document.body.appendChild(checkboxLabel);
-    document.body.appendChild(skipLine);
+    controlFragment.appendChild(checkbox);
+    controlFragment.appendChild(checkboxIcon);
+    controlFragment.appendChild(checkboxLabel);
+    controlFragment.appendChild(skipLine);
   });
 
   // checkbox toggle function
@@ -127,4 +129,23 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson.clearLayers();
     geojson.addData(data);
   }
+
+  var info = L.control();
+  info.onAdd = function (map) {
+    this._div = L.DomUtil.create("div", "info"); // create a div with a class "info"
+    this._div.appendChild(controlFragment);
+    return this._div;
+  };
+
+  info.addTo(map);
+
+  var info2 = L.control();
+  info2.onAdd = function (map) {
+    this._div = L.DomUtil.create("div", "info"); // create a div with a class "info"
+    this._div.innerHTML =
+      description.map + description.title + description.comment;
+    return this._div;
+  };
+
+  info2.addTo(map);
 });
