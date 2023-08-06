@@ -94,7 +94,9 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
   geojson.addTo(map);
 
   // create checkbox toggles based on values
-  const controlFragment = document.createDocumentFragment();
+  const checkboxContainer = document.createElement("div");
+  checkboxContainer.className = "infobox";
+  checkboxContainer.id = "checkbox-container";
 
   legendKeys.forEach(function (item) {
     const checkbox = document.createElement("input");
@@ -106,6 +108,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     };
 
     const checkboxIcon = document.createElement("img");
+    checkboxIcon.className = "checkbox-icon";
     checkboxIcon.src = `./${item}.png`;
     const checkboxLabel = document.createElement("label");
     checkboxLabel.for = `checkbox${item}`;
@@ -114,10 +117,10 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     const skipLine = document.createElement("br");
 
     // add to the HTML page
-    controlFragment.appendChild(checkbox);
-    controlFragment.appendChild(checkboxIcon);
-    controlFragment.appendChild(checkboxLabel);
-    controlFragment.appendChild(skipLine);
+    checkboxContainer.appendChild(checkbox);
+    checkboxContainer.appendChild(checkboxIcon);
+    checkboxContainer.appendChild(checkboxLabel);
+    checkboxContainer.appendChild(skipLine);
   });
 
   // checkbox toggle function
@@ -130,22 +133,18 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson.addData(data);
   }
 
+  const descriptionContainer = document.createElement("div");
+  descriptionContainer.className = "infobox";
+  descriptionContainer.innerHTML =
+    description.map + description.title + description.comment;
+
   var info = L.control();
   info.onAdd = function (map) {
     this._div = L.DomUtil.create("div", "info"); // create a div with a class "info"
-    this._div.appendChild(controlFragment);
+    this._div.appendChild(checkboxContainer);
+    this._div.appendChild(descriptionContainer);
     return this._div;
   };
 
   info.addTo(map);
-
-  var info2 = L.control();
-  info2.onAdd = function (map) {
-    this._div = L.DomUtil.create("div", "info"); // create a div with a class "info"
-    this._div.innerHTML =
-      description.map + description.title + description.comment;
-    return this._div;
-  };
-
-  info2.addTo(map);
 });
