@@ -1,0 +1,4996 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.333, 49.334]
+      },
+      "properties": {
+        "name": "Андрійова (Andrejová)",
+        "number": "8"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.794, 49.211]
+      },
+      "properties": {
+        "name": "Баєрівці (Bajerovce)",
+        "number": "22"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.575, 48.829]
+      },
+      "properties": {
+        "name": "Банське (Banské)",
+        "number": "30"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.327, 48.563]
+      },
+      "properties": {
+        "name": "Баранинці",
+        "number": "31"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.688, 49.432]
+      },
+      "properties": {
+        "name": "Barwinek",
+        "number": "36"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.321, 48.807]
+      },
+      "properties": {
+        "name": "Бенятина (Beňatina)",
+        "number": "47"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.949, 49.588]
+      },
+      "properties": {
+        "name": "Besko",
+        "number": "62"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.329, 49.211]
+      },
+      "properties": {
+        "name": "Cisna",
+        "number": "177"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.781, 49.385]
+      },
+      "properties": {
+        "name": "Czeremcha",
+        "number": "197"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.301, 49.053]
+      },
+      "properties": {
+        "name": "Дара (Dara)",
+        "number": "206"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.356, 48.822]
+      },
+      "properties": {
+        "name": "Іновець (Inovce)",
+        "number": "363"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.097, 49.358]
+      },
+      "properties": {
+        "name": "Jawornik",
+        "number": "396"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.3, 48.818]
+      },
+      "properties": {
+        "name": "Підгородь (Podhoroď)",
+        "number": "863"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.3, 48.857]
+      },
+      "properties": {
+        "name": "Руська Бистра (Ruská Bystrá)",
+        "number": "995"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.356, 48.876]
+      },
+      "properties": {
+        "name": "Дуброва (Dúbrava)",
+        "number": "246"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.3, 48.879]
+      },
+      "properties": {
+        "name": "Грабова Розтока (Hrabová Roztoka)",
+        "number": "336"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.353, 48.856]
+      },
+      "properties": {
+        "name": "Руський Грабовець (Ruský Hrabovec)",
+        "number": "1007"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.318, 48.892]
+      },
+      "properties": {
+        "name": "Шмиговець (Šmigovec)",
+        "number": "1073"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.28, 48.897]
+      },
+      "properties": {
+        "name": "Strihovce",
+        "number": "1124"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.345, 48.91]
+      },
+      "properties": {
+        "name": "Михайлів (Michajlov)",
+        "number": "671"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.297, 48.928]
+      },
+      "properties": {
+        "name": "Ладомирів (Ladomirov)",
+        "number": "563"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.333, 48.942]
+      },
+      "properties": {
+        "name": "Кленова (Klenová)",
+        "number": "442"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.366, 48.945]
+      },
+      "properties": {
+        "name": "Руська Волова (Ruská Volová)",
+        "number": "1001"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.323, 48.962]
+      },
+      "properties": {
+        "name": "Кална Розтока (Kalná Roztoka)",
+        "number": "408"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.387, 49.005]
+      },
+      "properties": {
+        "name": "Ковбасів (Kolbasov)",
+        "number": "458"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.514, 49.045]
+      },
+      "properties": {
+        "name": "Новоселиця (Nová Sedlica)",
+        "number": "744"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.328, 49.038]
+      },
+      "properties": {
+        "name": "Присліп (Príslop)",
+        "number": "901"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.402, 49.072]
+      },
+      "properties": {
+        "name": "Рунина (Runina)",
+        "number": "986"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.409, 49.028]
+      },
+      "properties": {
+        "name": "Руський Потік (Ruský Potok)",
+        "number": "1010"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.391, 48.899]
+      },
+      "properties": {
+        "name": "Убля (Ubľa)",
+        "number": "1231"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.438, 48.991]
+      },
+      "properties": {
+        "name": "Уличське Криве (Uličské Krivé)",
+        "number": "1236"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.424, 48.963]
+      },
+      "properties": {
+        "name": "Улич (Ulič)",
+        "number": "1237"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.138, 49.522]
+      },
+      "properties": {
+        "name": "Uście Gorlickie",
+        "number": "1238"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.11, 49.511]
+      },
+      "properties": {
+        "name": "Zboiska",
+        "number": "1424"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.481, 49.028]
+      },
+      "properties": {
+        "name": "Збій (Zboj)",
+        "number": "1425"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.797, 49.377]
+      },
+      "properties": {
+        "name": "Żegiestów",
+        "number": "1434"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.347, 49.108]
+      },
+      "properties": {
+        "name": "Руське (Ruské)",
+        "number": "1002"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.307, 49.089]
+      },
+      "properties": {
+        "name": "Великі Поляни (Veľká Poľana)",
+        "number": "1259"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.279, 49.103]
+      },
+      "properties": {
+        "name": "Смулник (Smolník)",
+        "number": "1074"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.24, 49.129]
+      },
+      "properties": {
+        "name": "Звала (Zvala)",
+        "number": "1457"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.229, 49.092]
+      },
+      "properties": {
+        "name": "Стружниця (Ostružnica)",
+        "number": "803"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.256, 49.049]
+      },
+      "properties": {
+        "name": "Старина (Starina)",
+        "number": "1104"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.235, 49.04]
+      },
+      "properties": {
+        "name": "Ялова (Jalová)",
+        "number": "380"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.228, 49]
+      },
+      "properties": {
+        "name": "Стащин (Stakčin)",
+        "number": "1097"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.282, 49]
+      },
+      "properties": {
+        "name": "Стащинська Розтока (Stakčianska Roztoka)",
+        "number": "1096"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.256, 48.958]
+      },
+      "properties": {
+        "name": "Колониця (Kolonica)",
+        "number": "485"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.193, 49.111]
+      },
+      "properties": {
+        "name": "Паризівці (Parihuzovce)",
+        "number": "813"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.17, 49.102]
+      },
+      "properties": {
+        "name": "Чукалівці (Čukalovce)",
+        "number": "187"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.144, 49.118]
+      },
+      "properties": {
+        "name": "Гостовиці (Hostovice)",
+        "number": "334"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.171, 49.066]
+      },
+      "properties": {
+        "name": "Пчолине (Pčoliné)",
+        "number": "819"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.122, 49.038]
+      },
+      "properties": {
+        "name": "Пихні (Pichné)",
+        "number": "838"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.153, 49.143]
+      },
+      "properties": {
+        "name": "Осадне (Osadné)",
+        "number": "799"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.099, 49.155]
+      },
+      "properties": {
+        "name": "Вишня Яблінка (Vyšná Jablonka)",
+        "number": "1331"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.085, 49.128]
+      },
+      "properties": {
+        "name": "Нижня Яблінка (Nižná Jablonka)",
+        "number": "725"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.095, 49.074]
+      },
+      "properties": {
+        "name": "Нехваль Полянки (Nechválová Polianka)",
+        "number": "717"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.063, 49.046]
+      },
+      "properties": {
+        "name": "Зубний (Zubné)",
+        "number": "1453"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.995, 49.014]
+      },
+      "properties": {
+        "name": "Машківці (Maškovce)",
+        "number": "656"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.991, 49.1]
+      },
+      "properties": {
+        "name": "Гуменський Рокитів (Rokytov pri Humennom)",
+        "number": "959"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.994, 49.138]
+      },
+      "properties": {
+        "name": "Вишнє Збійне (Vyšné Zbojné)",
+        "number": "1339"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.04, 49.171]
+      },
+      "properties": {
+        "name": "Светлиці (Svetlice)",
+        "number": "1151"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.039, 49.2]
+      },
+      "properties": {
+        "name": "Ольшинків (Olšinkov)",
+        "number": "791"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.006, 49.192]
+      },
+      "properties": {
+        "name": "Вирава (Výrava)",
+        "number": "1327"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.974, 49.222]
+      },
+      "properties": {
+        "name": "Стерківці (Sterkovce)",
+        "number": "1113"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.964, 49.229]
+      },
+      "properties": {
+        "name": "Чабалівці (Čabalovce)",
+        "number": "131"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.936, 49.252]
+      },
+      "properties": {
+        "name": "Нягів (Ňagov)",
+        "number": "713"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.994, 49.27]
+      },
+      "properties": {
+        "name": "Полата (Palota)",
+        "number": "812"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.934, 49.29]
+      },
+      "properties": {
+        "name": "Видрань (Vydraň)",
+        "number": "1323"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.922, 49.316]
+      },
+      "properties": {
+        "name": "Калинів (Kalinov)",
+        "number": "406"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.827, 49.35]
+      },
+      "properties": {
+        "name": "Чертіжне (Čertižné)",
+        "number": "149"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.861, 49.324]
+      },
+      "properties": {
+        "name": "Габура (Habura)",
+        "number": "294"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.886, 49.303]
+      },
+      "properties": {
+        "name": "Борів (Borov)",
+        "number": "89"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.905, 49.275]
+      },
+      "properties": {
+        "name": "Меджилабірці (Medzilaborce)",
+        "number": "669"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.875, 49.267]
+      },
+      "properties": {
+        "name": "Рокитівці (Rokytovce)",
+        "number": "960"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.898, 49.24]
+      },
+      "properties": {
+        "name": "Красний Брід (Krásny Brod)",
+        "number": "511"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.85, 49.239]
+      },
+      "properties": {
+        "name": "Рожківці (Roškovce)",
+        "number": "967"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.874, 49.219]
+      },
+      "properties": {
+        "name": "Суків (Sukov)",
+        "number": "1142"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.895, 49.191]
+      },
+      "properties": {
+        "name": "Вишні Чабини (Vyšné Čabiny)",
+        "number": "13301"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.908, 49.177]
+      },
+      "properties": {
+        "name": "Нижні Чабини (Nižné Čabiny)",
+        "number": "13302"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.922, 49.152]
+      },
+      "properties": {
+        "name": "Волиця (Volica)",
+        "number": "1312"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.952, 49.178]
+      },
+      "properties": {
+        "name": "Валентівці (Valentovce)",
+        "number": "1247"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.942, 49.152]
+      },
+      "properties": {
+        "name": "Збудська Біла (Zbudská Belá)",
+        "number": "1427"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.937, 49.114]
+      },
+      "properties": {
+        "name": "Берестів (Brestov nad Laborcom)",
+        "number": "97"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.926, 49.132]
+      },
+      "properties": {
+        "name": "Вишня Радвань (Radvaň nad Laborcom)",
+        "number": "928"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.82, 49.244]
+      },
+      "properties": {
+        "name": "Бистра (Bystrá)",
+        "number": "126"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.806, 49.225]
+      },
+      "properties": {
+        "name": "Варіхівці (Varechovce)",
+        "number": "1252"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.821, 49.2]
+      },
+      "properties": {
+        "name": "Репеїв (Repejov)",
+        "number": "950"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.819, 49.197]
+      },
+      "properties": {
+        "name": "Праврівці (Pravrovce)",
+        "number": "897"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.843, 49.154]
+      },
+      "properties": {
+        "name": "Олька (Oľka)",
+        "number": "788"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.866, 49.139]
+      },
+      "properties": {
+        "name": "Крива Олька (Krivá Oľka)",
+        "number": "518"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.786, 49.173]
+      },
+      "properties": {
+        "name": "Завада (Závada)",
+        "number": "1406"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.791, 49.14]
+      },
+      "properties": {
+        "name": "Руська Поруба (Ruská Poruba)",
+        "number": "998"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.775, 49.129]
+      },
+      "properties": {
+        "name": "Притуляни (Prituľany)",
+        "number": "902"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.824, 49.294]
+      },
+      "properties": {
+        "name": "Мікова (Miková)",
+        "number": "678"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.826, 49.281]
+      },
+      "properties": {
+        "name": "Мала Поляна (Malá Poľana)",
+        "number": "642"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.785, 49.256]
+      },
+      "properties": {
+        "name": "Гавай (Havaj)",
+        "number": "306"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.795, 49.322]
+      },
+      "properties": {
+        "name": "Мала Дрічна (Malá Driečna)",
+        "number": "239"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.778, 49.3]
+      },
+      "properties": {
+        "name": "Вишня Владича (Vyšná Vladiča)",
+        "number": "1306"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.755, 49.28]
+      },
+      "properties": {
+        "name": "Великі Сташківці (Veľké Staškovce)",
+        "number": "1105"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.752, 49.258]
+      },
+      "properties": {
+        "name": "Маківці (Makovce)",
+        "number": "639"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.718, 49.266]
+      },
+      "properties": {
+        "name": "Великий Буковець (Veľké Bukovce)",
+        "number": "115"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.723, 49.296]
+      },
+      "properties": {
+        "name": "Грибів (Gribov)",
+        "number": "290"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.687, 49.292]
+      },
+      "properties": {
+        "name": "Ольшавка (Olšavka)",
+        "number": "790"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.662, 49.279]
+      },
+      "properties": {
+        "name": "Віслава (Vislava)",
+        "number": "1303"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.67, 49.251]
+      },
+      "properties": {
+        "name": "Вишківці (Vyškovce)",
+        "number": "1329"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.626, 49.258]
+      },
+      "properties": {
+        "name": "Потоки (Potoky)",
+        "number": "894"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.635, 49.207]
+      },
+      "properties": {
+        "name": "Бокша (Bokša)",
+        "number": "85"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.619, 49.186]
+      },
+      "properties": {
+        "name": "Шандал (Šandal)",
+        "number": "1022"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.605, 49.158]
+      },
+      "properties": {
+        "name": "Вишня Ольшава (Vyšná Olšava)",
+        "number": "1333"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.748, 49.241]
+      },
+      "properties": {
+        "name": "Велькріп (Veľkrop)",
+        "number": "1265"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.702, 49.222]
+      },
+      "properties": {
+        "name": "Брезничка (Breznička)",
+        "number": "100"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.692, 49.206]
+      },
+      "properties": {
+        "name": "Войтівці (Vojtovce)",
+        "number": "1310"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.716, 49.21]
+      },
+      "properties": {
+        "name": "Поточки (Potôčky)",
+        "number": "891"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.744, 49.215]
+      },
+      "properties": {
+        "name": "Солник (Solník)",
+        "number": "1087"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.747, 49.2]
+      },
+      "properties": {
+        "name": "Корункова (Korunková)",
+        "number": "480"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.726, 49.164]
+      },
+      "properties": {
+        "name": "Колбівці (Kolbovce)",
+        "number": "459"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.751, 49.156]
+      },
+      "properties": {
+        "name": "Якушівці (Jakušovce)",
+        "number": "379"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.701, 49.154]
+      },
+      "properties": {
+        "name": "Брусниця (Brusnica)",
+        "number": "107"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.709, 49.107]
+      },
+      "properties": {
+        "name": "Токаїк (Tokajík)",
+        "number": "1193"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.635, 49.107]
+      },
+      "properties": {
+        "name": "Лімне (Lomné)",
+        "number": "601"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.656, 49.062]
+      },
+      "properties": {
+        "name": "Вальків (Valkov)",
+        "number": "1248"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.733, 49.106]
+      },
+      "properties": {
+        "name": "Пискурівці (Piskorovce)",
+        "number": "853"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.762, 49.111]
+      },
+      "properties": {
+        "name": "Рогожник (Rohožník)",
+        "number": "957"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.739, 49.043]
+      },
+      "properties": {
+        "name": "Рафаївці (Rafajovce)",
+        "number": "931"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.638, 49.091]
+      },
+      "properties": {
+        "name": "Бжани (Bžany)",
+        "number": "130"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.762, 49.32]
+      },
+      "properties": {
+        "name": "Суха (Suchá)",
+        "number": "1138"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.747, 49.311]
+      },
+      "properties": {
+        "name": "Пстрина (Pstriná)",
+        "number": "915"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.732, 49.329]
+      },
+      "properties": {
+        "name": "Мироля (Miroľa)",
+        "number": "685"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.739, 49.362]
+      },
+      "properties": {
+        "name": "Прикра (Príkra)",
+        "number": "900"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.708, 49.353]
+      },
+      "properties": {
+        "name": "Бодружал (Bodrudžaľ)",
+        "number": "80"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.704, 49.403]
+      },
+      "properties": {
+        "name": "Вишній Комарник (Vyšný Komárnik)",
+        "number": "1343"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.697, 49.375]
+      },
+      "properties": {
+        "name": "Нижній Комарник (Nižný Komárnik)",
+        "number": "736"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.683, 49.363]
+      },
+      "properties": {
+        "name": "Крайня Поляна (Krajná Poľana)",
+        "number": "501"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.677, 49.385]
+      },
+      "properties": {
+        "name": "Крайня Бистра (Krajná Bystrá)",
+        "number": "500"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.652, 49.36]
+      },
+      "properties": {
+        "name": "Гінківці (Hunkovce)",
+        "number": "353"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.63, 49.428]
+      },
+      "properties": {
+        "name": "Шарбів (Šarbov)",
+        "number": "1025"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.648, 49.413]
+      },
+      "properties": {
+        "name": "Крайня Порубка (Krajná Porúbka)",
+        "number": "502"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.64, 49.399]
+      },
+      "properties": {
+        "name": "Медвіже (Medvedzie)",
+        "number": "665"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.643, 49.378]
+      },
+      "properties": {
+        "name": "Кореївці (Korejovce)",
+        "number": "477"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.402, 49.404]
+      },
+      "properties": {
+        "name": "Ладомирова (Ladomírová)",
+        "number": "564"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.704, 49.32]
+      },
+      "properties": {
+        "name": "Кожухівці (Kožuchovce)",
+        "number": "498"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.664, 49.312]
+      },
+      "properties": {
+        "name": "Шеметківці (Šemetkovce)",
+        "number": "1044"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.633, 49.312]
+      },
+      "properties": {
+        "name": "Вагринець (Vagrinec)",
+        "number": "1244"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.621, 49.288]
+      },
+      "properties": {
+        "name": "Нова Поляна (Nová Polianka)",
+        "number": "742"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.557, 49.281]
+      },
+      "properties": {
+        "name": "Грабівчик (Hrabovčík)",
+        "number": "337"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.518, 49.282]
+      },
+      "properties": {
+        "name": "Рівне (Rovné)",
+        "number": "972"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.529, 49.25]
+      },
+      "properties": {
+        "name": "Млинарівці (Mlynárovce)",
+        "number": "687"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.568, 49.306]
+      },
+      "properties": {
+        "name": "Свидник (Svidník)",
+        "number": "1153"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.595, 49.345]
+      },
+      "properties": {
+        "name": "Капішова (Kapišová)",
+        "number": "426"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.583, 49.362]
+      },
+      "properties": {
+        "name": "Кружльова (Kružľová)",
+        "number": "527"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.602, 49.385]
+      },
+      "properties": {
+        "name": "Нижня Писана (Nižná Písaná)",
+        "number": "728"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.613, 49.402]
+      },
+      "properties": {
+        "name": "Вишня Писана (Vyšná Písaná)",
+        "number": "1334"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.555, 49.411]
+      },
+      "properties": {
+        "name": "Гаврянець (Havranec)",
+        "number": "307"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.57, 49.382]
+      },
+      "properties": {
+        "name": "Свидничка (Svidnička)",
+        "number": "1152"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.545, 49.375]
+      },
+      "properties": {
+        "name": "Белеївці (Belejovce)",
+        "number": "44"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.511, 49.383]
+      },
+      "properties": {
+        "name": "Кечківці (Kečkovce)",
+        "number": "432"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.494, 49.389]
+      },
+      "properties": {
+        "name": "Розтоки (Roztoky)",
+        "number": "981"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.557, 49.338]
+      },
+      "properties": {
+        "name": "Нижня Ядлова (Nižná Jedľová)",
+        "number": "726"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.541, 49.348]
+      },
+      "properties": {
+        "name": "Вишня Ядлова (Vyšná Jedľová)",
+        "number": "1332"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.526, 49.335]
+      },
+      "properties": {
+        "name": "Нижній Орлик (Nižný Orlík)",
+        "number": "738"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.511, 49.322]
+      },
+      "properties": {
+        "name": "Юркова Воля (Jurkova Voľa)",
+        "number": "400"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.504, 49.343]
+      },
+      "properties": {
+        "name": "Вишній Орлик (Višný Orlík)",
+        "number": "1345"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.474, 49.36]
+      },
+      "properties": {
+        "name": "Нижній Мирошів (Nižný Mirošov)",
+        "number": "737"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.446, 49.387]
+      },
+      "properties": {
+        "name": "Вишній Мирошів (Vyšný Mirošov)",
+        "number": "1344"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.433, 49.363]
+      },
+      "properties": {
+        "name": "Дубова (Dubová)",
+        "number": "244"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.438, 49.319]
+      },
+      "properties": {
+        "name": "Куримка (Kurimka)",
+        "number": "543"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.475, 49.297]
+      },
+      "properties": {
+        "name": "Цернина (Cernina)",
+        "number": "145"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.396, 49.361]
+      },
+      "properties": {
+        "name": "Цигля (Cígla)",
+        "number": "173"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.547, 49.233]
+      },
+      "properties": {
+        "name": "Бенядиківці (Beňadikovce)",
+        "number": "46"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.569, 49.216]
+      },
+      "properties": {
+        "name": "Шариський Щавник (Šarišský Štiavnik)",
+        "number": "1028"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.525, 49.194]
+      },
+      "properties": {
+        "name": "Шапинець (Šapinec)",
+        "number": "1024"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.508, 49.176]
+      },
+      "properties": {
+        "name": "Штефурів (Štefurov)",
+        "number": "1112"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.554, 49.146]
+      },
+      "properties": {
+        "name": "Собош (Soboš)",
+        "number": "1080"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.608, 49.113]
+      },
+      "properties": {
+        "name": "Руський Кручів (Ruský Kručov)",
+        "number": "1009"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.591, 49.096]
+      },
+      "properties": {
+        "name": "Ruská Voľa",
+        "number": "999"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.582, 49.061]
+      },
+      "properties": {
+        "name": "Матяшка (Matiaška)",
+        "number": "657"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.597, 49.05]
+      },
+      "properties": {
+        "name": "Вавринець (Vavrinec)",
+        "number": "1254"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.62, 49.042]
+      },
+      "properties": {
+        "name": "Детрик (Detrík)",
+        "number": "216"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.481, 49.263]
+      },
+      "properties": {
+        "name": "Липова (Lipová)",
+        "number": "586"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.457, 49.27]
+      },
+      "properties": {
+        "name": "Ортутова (Ortuťová)",
+        "number": "798"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.449, 49.257]
+      },
+      "properties": {
+        "name": "Шашова (Šašová)",
+        "number": "1030"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.331, 49.24]
+      },
+      "properties": {
+        "name": "Ряшів (Rešov)",
+        "number": "952"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.366, 49.297]
+      },
+      "properties": {
+        "name": "Біловежа (Beloveža)",
+        "number": "45"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.385, 49.345]
+      },
+      "properties": {
+        "name": "Шариське Чорне (Šarišské Čierne)",
+        "number": "1026"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.39, 49.384]
+      },
+      "properties": {
+        "name": "Нікльова (Mikulášová)",
+        "number": "680"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.429, 49.399]
+      },
+      "properties": {
+        "name": "Гутка (Hutka)",
+        "number": "356"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.402, 49.404]
+      },
+      "properties": {
+        "name": "Нижня Полянка (Nižná Polianka)",
+        "number": "729"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.386, 49.412]
+      },
+      "properties": {
+        "name": "Варадка (Varadka)",
+        "number": "1251"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.371, 49.399]
+      },
+      "properties": {
+        "name": "Ялинки (Jedlinka)",
+        "number": "397"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.35, 49.43]
+      },
+      "properties": {
+        "name": "Вишня Полянка (Vyšná Polianka)",
+        "number": "1335"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.339, 49.437]
+      },
+      "properties": {
+        "name": "Ондавка (Ondavka)",
+        "number": "792"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.311, 49.42]
+      },
+      "properties": {
+        "name": "Бехерів (Becherov)",
+        "number": "38"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.298, 49.4]
+      },
+      "properties": {
+        "name": "Хмельова (Chmeľová)",
+        "number": "153"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.274, 49.421]
+      },
+      "properties": {
+        "name": "Ретівка (Regetovka)",
+        "number": "942"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.269, 49.378]
+      },
+      "properties": {
+        "name": "Стебник (Stebník)",
+        "number": "1109"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.197, 49.381]
+      },
+      "properties": {
+        "name": "Вишній Тварожець (Vyšný Tvarožec)",
+        "number": "1346"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.186, 49.363]
+      },
+      "properties": {
+        "name": "Нижній Тварожець (Nižný Tvarožec)",
+        "number": "739"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.148, 49.406]
+      },
+      "properties": {
+        "name": "Цигелка (Cigeľka)",
+        "number": "172"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.087, 49.403]
+      },
+      "properties": {
+        "name": "Фричка (Frička)",
+        "number": "276"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.12, 49.387]
+      },
+      "properties": {
+        "name": "Петрова (Petrová)",
+        "number": "831"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.135, 49.342]
+      },
+      "properties": {
+        "name": "Курів (Kurov)",
+        "number": "544"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.11, 49.321]
+      },
+      "properties": {
+        "name": "Ґерлахів (Gerlachov)",
+        "number": "283"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.073, 49.339]
+      },
+      "properties": {
+        "name": "Грабске (Hrabské)",
+        "number": "339"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.051, 49.326]
+      },
+      "properties": {
+        "name": "Снаків (Snakov)",
+        "number": "1077"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.081, 49.292]
+      },
+      "properties": {
+        "name": "Луків (Lukov)",
+        "number": "620"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.134, 49.304]
+      },
+      "properties": {
+        "name": "Кружлів (Kružľov)",
+        "number": "526"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.152, 49.292]
+      },
+      "properties": {
+        "name": "Криве (Krivé)",
+        "number": "519"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.153, 49.278]
+      },
+      "properties": {
+        "name": "Боглярка (Bogliarka)",
+        "number": "81"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.149, 49.243]
+      },
+      "properties": {
+        "name": "Крижі (Kríže)",
+        "number": "521"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.089, 49.252]
+      },
+      "properties": {
+        "name": "Лівів (Livov)",
+        "number": "594"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.035, 49.244]
+      },
+      "properties": {
+        "name": "Лівівська Гута (Livovská Huta)",
+        "number": "595"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.266, 49.136]
+      },
+      "properties": {
+        "name": "Жатківці (Žatkovce)",
+        "number": "1403"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.26, 49.138]
+      },
+      "properties": {
+        "name": "Гералт (Geraltov)",
+        "number": "282"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.239, 49.147]
+      },
+      "properties": {
+        "name": "Завадка (Závadka)",
+        "number": "1410"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.226, 49.139]
+      },
+      "properties": {
+        "name": "Городисько (Hradisko)",
+        "number": "340"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.109, 49.129]
+      },
+      "properties": {
+        "name": "Дрієніца (Drienica)",
+        "number": "240"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.838, 48.667]
+      },
+      "properties": {
+        "name": "Гачава (Hačava)",
+        "number": "295"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.608, 48.678]
+      },
+      "properties": {
+        "name": "Пача (Pača)",
+        "number": "2001"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.965, 49.095]
+      },
+      "properties": {
+        "name": "Ренчишів (Renčišov)",
+        "number": "948"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.018, 49.173]
+      },
+      "properties": {
+        "name": "Ганігівці (Hanigovce)",
+        "number": "303"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.939, 49.218]
+      },
+      "properties": {
+        "name": "Кийов (Kyjov)",
+        "number": "556"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.91, 49.243]
+      },
+      "properties": {
+        "name": "Шариське Ястраб’є (Šarišské Jastrabie)",
+        "number": "1027"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.984, 49.306]
+      },
+      "properties": {
+        "name": "Обручне (Obručné)",
+        "number": "778"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.937, 49.298]
+      },
+      "properties": {
+        "name": "Руська Воля (Ruská Voľa nad Popradom)",
+        "number": "1000"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.921, 49.281]
+      },
+      "properties": {
+        "name": "Чирч (Čirč)",
+        "number": "174"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.868, 49.283]
+      },
+      "properties": {
+        "name": "Орлів (Orlov)",
+        "number": "797"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.862, 49.235]
+      },
+      "properties": {
+        "name": "Висланка (Vislanka)",
+        "number": "1302"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.788, 49.147]
+      },
+      "properties": {
+        "name": "Тихий Потік (Tichý Potok)",
+        "number": "1187"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.752, 49.083]
+      },
+      "properties": {
+        "name": "Ольшавиця (Oľšavica)",
+        "number": "789"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.704, 49.087]
+      },
+      "properties": {
+        "name": "Нижні Репаші (Nižné Repaše)",
+        "number": "733"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.677, 49.096]
+      },
+      "properties": {
+        "name": "Ториски (Torysky)",
+        "number": "1201"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.618, 48.865]
+      },
+      "properties": {
+        "name": "Завадка (Závadka)",
+        "number": "1409"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.724, 48.884]
+      },
+      "properties": {
+        "name": "Порач (Porač)",
+        "number": "878"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.847, 48.883]
+      },
+      "properties": {
+        "name": "Нижні Словінки (Nižné Slovinky)",
+        "number": "1068"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.87, 48.83]
+      },
+      "properties": {
+        "name": "Гелцманівці (Helcmanovce)",
+        "number": "310"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.851, 49.339]
+      },
+      "properties": {
+        "name": "Легнава (Legnava)",
+        "number": "578"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.828, 49.325]
+      },
+      "properties": {
+        "name": "Старина (Starina)",
+        "number": "1103"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.811, 49.293]
+      },
+      "properties": {
+        "name": "Удоль (Udol)",
+        "number": "1233"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.773, 49.297]
+      },
+      "properties": {
+        "name": "Гайтівка (Hajtovka)",
+        "number": "297"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.789, 49.327]
+      },
+      "properties": {
+        "name": "Малий Липник (Malý Lipník)",
+        "number": "650"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.754, 49.318]
+      },
+      "properties": {
+        "name": "Матисова (Matysová)",
+        "number": "661"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.776, 49.374]
+      },
+      "properties": {
+        "name": "Малий Сулин (Malý Sulín)",
+        "number": "1144"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.657, 49.335]
+      },
+      "properties": {
+        "name": "Орябина (Jarabina)",
+        "number": "383"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.622, 49.37]
+      },
+      "properties": {
+        "name": "Литманова (Litmanová)",
+        "number": "591"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.615, 49.332]
+      },
+      "properties": {
+        "name": "Камйонка (Kamienka)",
+        "number": "418"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.75, 49.226]
+      },
+      "properties": {
+        "name": "Шамброн (Šambron)",
+        "number": "1020"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.696, 49.245]
+      },
+      "properties": {
+        "name": "Якуб’яни (Jakubany)",
+        "number": "378"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.538, 49.187]
+      },
+      "properties": {
+        "name": "Ігляни (Ihlany)",
+        "number": "358"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.541, 49.368]
+      },
+      "properties": {
+        "name": "Страняни (Straňany)",
+        "number": "1118"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.504, 49.373]
+      },
+      "properties": {
+        "name": "Великий Липник (Veľký Lipník)",
+        "number": "1266"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.234, 49.335]
+      },
+      "properties": {
+        "name": "Остурня (Osturňa)",
+        "number": "804"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.049, 49.465]
+      },
+      "properties": {
+        "name": "Banica",
+        "number": "28"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.334, 49.564]
+      },
+      "properties": {
+        "name": "Bartne",
+        "number": "33"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.218, 48.513]
+      },
+      "properties": {
+        "name": "Березники",
+        "number": "57"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.134, 48.311]
+      },
+      "properties": {
+        "name": "Білки",
+        "number": "68"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.948, 49.564]
+      },
+      "properties": {
+        "name": "Binczarowa",
+        "number": "71"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.191, 47.864]
+      },
+      "properties": {
+        "name": "Bistra",
+        "number": "72"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.346, 48.04]
+      },
+      "properties": {
+        "name": "Богдан",
+        "number": "84"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.387, 48.156]
+      },
+      "properties": {
+        "name": "Боронява",
+        "number": "88"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.999, 48.345]
+      },
+      "properties": {
+        "name": "Брід",
+        "number": "103"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.968, 48.366]
+      },
+      "properties": {
+        "name": "Брустури",
+        "number": "108"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.569, 49.142]
+      },
+      "properties": {
+        "name": "Brzegi Górne",
+        "number": "109"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.674, 48.825]
+      },
+      "properties": {
+        "name": "Буківцьово",
+        "number": "114"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.482, 48.05]
+      },
+      "properties": {
+        "name": "Буштино",
+        "number": "123"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.19, 48.136]
+      },
+      "properties": {
+        "name": "Черна",
+        "number": "144"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.095, 48.058]
+      },
+      "properties": {
+        "name": "Холмовець",
+        "number": "158"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.477, 48.586]
+      },
+      "properties": {
+        "name": "Худльово",
+        "number": "163"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.616, 49.523]
+      },
+      "properties": {
+        "name": "Chyrowa",
+        "number": "166"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.207, 48.109]
+      },
+      "properties": {
+        "name": "Хижа",
+        "number": "167"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.509, 49.442]
+      },
+      "properties": {
+        "name": "Ciechania",
+        "number": "171"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.328, 48.309]
+      },
+      "properties": {
+        "name": "Чорна Тиса",
+        "number": "181"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.053, 48.078]
+      },
+      "properties": {
+        "name": "Чорнотисів (Чорний Ардів)",
+        "number": "183"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.999, 48.411]
+      },
+      "properties": {
+        "name": "Чорний Потік",
+        "number": "184"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.982, 47.955]
+      },
+      "properties": {
+        "name": "Crăciunești",
+        "number": "185"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.94, 49.454]
+      },
+      "properties": {
+        "name": "Darów",
+        "number": "208"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.325, 49.424]
+      },
+      "properties": {
+        "name": "Hoczew",
+        "number": "320"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.32, 49.467]
+      },
+      "properties": {
+        "name": "Huzele",
+        "number": "357"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.911, 49.369]
+      },
+      "properties": {
+        "name": "Jasiel",
+        "number": "386"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.349, 48.259]
+      },
+      "properties": {
+        "name": "Ясіня",
+        "number": "387"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.714, 48.064]
+      },
+      "properties": {
+        "name": "Добрянське (Нягово)",
+        "number": "226"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.28, 48.366]
+      },
+      "properties": {
+        "name": "Довге",
+        "number": "235"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.342, 48.527]
+      },
+      "properties": {
+        "name": "Довге Поле",
+        "number": "236"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.549, 48.238]
+      },
+      "properties": {
+        "name": "Драгово",
+        "number": "237"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.986, 48.104]
+      },
+      "properties": {
+        "name": "Дротинці",
+        "number": "242"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.89, 48.195]
+      },
+      "properties": {
+        "name": "Дубове",
+        "number": "245"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.493, 48.802]
+      },
+      "properties": {
+        "name": "Дубриничі",
+        "number": "250"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.912, 48.322]
+      },
+      "properties": {
+        "name": "Дунковиця",
+        "number": "253"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.018, 48.085]
+      },
+      "properties": {
+        "name": "Гетиня",
+        "number": "312"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.278, 49.634]
+      },
+      "properties": {
+        "name": "Hłomcza",
+        "number": "315"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.175, 48.154]
+      },
+      "properties": {
+        "name": "Горбки",
+        "number": "327"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.432, 48.27]
+      },
+      "properties": {
+        "name": "Горінчово",
+        "number": "329"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.565, 48.381]
+      },
+      "properties": {
+        "name": "Горонда",
+        "number": "332"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.768, 48.006]
+      },
+      "properties": {
+        "name": "Грушово",
+        "number": "347"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.127, 48.115]
+      },
+      "properties": {
+        "name": "Гудя",
+        "number": "350"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.079, 48.353]
+      },
+      "properties": {
+        "name": "Ільниця",
+        "number": "360"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.366, 48.65]
+      },
+      "properties": {
+        "name": "Ізки",
+        "number": "372"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.435, 48.642]
+      },
+      "properties": {
+        "name": "Ярок",
+        "number": "384"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.553, 49.407]
+      },
+      "properties": {
+        "name": "Jaworki",
+        "number": "393"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.423, 49.195]
+      },
+      "properties": {
+        "name": "Kalnica",
+        "number": "409"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.598, 48.519]
+      },
+      "properties": {
+        "name": "Кальник",
+        "number": "411"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.221, 48.479]
+      },
+      "properties": {
+        "name": "Керецьки",
+        "number": "435"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.512, 48.974]
+      },
+      "properties": {
+        "name": "Княгиня",
+        "number": "451"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.698, 48.426]
+      },
+      "properties": {
+        "name": "Колочава",
+        "number": "462"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.07, 49.34]
+      },
+      "properties": {
+        "name": "Komańcza",
+        "number": "467"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.463, 48.339]
+      },
+      "properties": {
+        "name": "Komlóska",
+        "number": "469"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.297, 48.554]
+      },
+      "properties": {
+        "name": "Коритняни",
+        "number": "481"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.114, 48.005]
+      },
+      "properties": {
+        "name": "Косівська Поляна",
+        "number": "486"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.589, 48.941]
+      },
+      "properties": {
+        "name": "Кострина",
+        "number": "490"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.203, 47.993]
+      },
+      "properties": {
+        "name": "Костилівка (Берлебаш)",
+        "number": "491"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.5, 49.51]
+      },
+      "properties": {
+        "name": "Krempna",
+        "number": "516"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.808, 49.496]
+      },
+      "properties": {
+        "name": "Królik Wołoski",
+        "number": "522"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.252, 48.438]
+      },
+      "properties": {
+        "name": "Кушниця",
+        "number": "546"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.769, 48.188]
+      },
+      "properties": {
+        "name": "Квасово",
+        "number": "552"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.282, 48.148]
+      },
+      "properties": {
+        "name": "Кваси",
+        "number": "553"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.855, 49.528]
+      },
+      "properties": {
+        "name": "Łabowa",
+        "number": "558"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.813, 48.404]
+      },
+      "properties": {
+        "name": "Лалово",
+        "number": "566"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.777, 49.407]
+      },
+      "properties": {
+        "name": "Lipowiec",
+        "number": "587"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.772, 48.898]
+      },
+      "properties": {
+        "name": "Люта",
+        "number": "597"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.054, 47.958]
+      },
+      "properties": {
+        "name": "Луг",
+        "number": "617"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.437, 48.064]
+      },
+      "properties": {
+        "name": "Луги",
+        "number": "619"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.238, 49.426]
+      },
+      "properties": {
+        "name": "Łukowe",
+        "number": "624"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.05, 47.952]
+      },
+      "properties": {
+        "name": "Lunca la Tisa",
+        "number": "626"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.066, 49.242]
+      },
+      "properties": {
+        "name": "Łupków",
+        "number": "628"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.753, 48.775]
+      },
+      "properties": {
+        "name": "Липовець",
+        "number": "630"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.444, 48.864]
+      },
+      "properties": {
+        "name": "Малий Березний",
+        "number": "652"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.278, 49.356]
+      },
+      "properties": {
+        "name": "Mchawa",
+        "number": "662"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.503, 48.524]
+      },
+      "properties": {
+        "name": "Міжгір’я (Волове)",
+        "number": "686"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.011, 49.438]
+      },
+      "properties": {
+        "name": "Mochnaczka Niżna",
+        "number": "690"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.184, 49.466]
+      },
+      "properties": {
+        "name": "Morochów",
+        "number": "699"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.647, 49.494]
+      },
+      "properties": {
+        "name": "Mszana",
+        "number": "701"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.393, 48.676]
+      },
+      "properties": {
+        "name": "Невицьке",
+        "number": "722"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.429, 48.797]
+      },
+      "properties": {
+        "name": "Новоселиця",
+        "number": "749"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.498, 48.714]
+      },
+      "properties": {
+        "name": "Новоселиця",
+        "number": "751"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.226, 48.131]
+      },
+      "properties": {
+        "name": "Новоселиця",
+        "number": "752"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.895, 49.505]
+      },
+      "properties": {
+        "name": "Nowa Wieś",
+        "number": "754"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.832, 48.256]
+      },
+      "properties": {
+        "name": "Нижні Ремети",
+        "number": "764"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.534, 48.355]
+      },
+      "properties": {
+        "name": "Нижній Бистрий",
+        "number": "766"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.603, 49.473]
+      },
+      "properties": {
+        "name": "Olchowiec",
+        "number": "783"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.961, 48.163]
+      },
+      "properties": {
+        "name": "Олешник (Егреш)",
+        "number": "787"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23, 48.219]
+      },
+      "properties": {
+        "name": "Онок",
+        "number": "793"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.458, 49.429]
+      },
+      "properties": {
+        "name": "Ożenna",
+        "number": "806"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.907, 48.531]
+      },
+      "properties": {
+        "name": "Пасіка",
+        "number": "814"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.495, 48.827]
+      },
+      "properties": {
+        "name": "Пастілки",
+        "number": "816"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.44, 49.615]
+      },
+      "properties": {
+        "name": "Pielgrzymka",
+        "number": "848"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.449, 47.824]
+      },
+      "properties": {
+        "name": "Poienile de sub Munte",
+        "number": "867"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.409, 49.278]
+      },
+      "properties": {
+        "name": "Polanki",
+        "number": "870"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.566, 49.495]
+      },
+      "properties": {
+        "name": "Polany",
+        "number": "872"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.966, 48.622]
+      },
+      "properties": {
+        "name": "Поляна",
+        "number": "875"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.753, 48.672]
+      },
+      "properties": {
+        "name": "Порошково",
+        "number": "879"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.373, 49.45]
+      },
+      "properties": {
+        "name": "Radocyna",
+        "number": "926"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.642, 47.99]
+      },
+      "properties": {
+        "name": "Remeți",
+        "number": "947"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.398, 47.833]
+      },
+      "properties": {
+        "name": "Repedea",
+        "number": "949"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.038, 47.898]
+      },
+      "properties": {
+        "name": "Rona de Sus",
+        "number": "962"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.93, 49.471]
+      },
+      "properties": {
+        "name": "Roztoka Wielka",
+        "number": "978"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.899, 48.351]
+      },
+      "properties": {
+        "name": "Руська Мокра",
+        "number": "989"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.438, 48.522]
+      },
+      "properties": {
+        "name": "Руські Комарівці",
+        "number": "992"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.287, 47.793]
+      },
+      "properties": {
+        "name": "Ruscova",
+        "number": "994"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.072, 48.093]
+      },
+      "properties": {
+        "name": "Сасово",
+        "number": "1031"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.517, 48.733]
+      },
+      "properties": {
+        "name": "Сімер",
+        "number": "1051"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.265, 48.733]
+      },
+      "properties": {
+        "name": "Скотарське",
+        "number": "1058"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.237, 49.506]
+      },
+      "properties": {
+        "name": "Smerekowiec",
+        "number": "1072"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.055, 49.51]
+      },
+      "properties": {
+        "name": "Śnietnica",
+        "number": "1078"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.397, 48.119]
+      },
+      "properties": {
+        "name": "Сокирниця",
+        "number": "1084"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.24, 49.171]
+      },
+      "properties": {
+        "name": "Solinka",
+        "number": "1085"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.696, 48.993]
+      },
+      "properties": {
+        "name": "Ставне",
+        "number": "1106"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.683, 49.186]
+      },
+      "properties": {
+        "name": "Stuposiany",
+        "number": "1135"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.62, 49.017]
+      },
+      "properties": {
+        "name": "Стужиця",
+        "number": "1136"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.432, 49.525]
+      },
+      "properties": {
+        "name": "Świątkowa",
+        "number": "1157"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.624, 48.486]
+      },
+      "properties": {
+        "name": "Синевир",
+        "number": "1159"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.691, 48.586]
+      },
+      "properties": {
+        "name": "Синевирська Поляна",
+        "number": "1160"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.756, 48.215]
+      },
+      "properties": {
+        "name": "Широкий Луг",
+        "number": "1163"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.866, 49.383]
+      },
+      "properties": {
+        "name": "Szczawnik",
+        "number": "1165"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.794, 49.125]
+      },
+      "properties": {
+        "name": "Tarnawa Niżna",
+        "number": "1178"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.096, 48.122]
+      },
+      "properties": {
+        "name": "Теково",
+        "number": "1181"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.598, 48.669]
+      },
+      "properties": {
+        "name": "Торунь",
+        "number": "1200"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.951, 48.097]
+      },
+      "properties": {
+        "name": "Тросник (Шашвар)",
+        "number": "1209"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.803, 48.701]
+      },
+      "properties": {
+        "name": "Тур’я Поляна",
+        "number": "1216"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.596, 48.72]
+      },
+      "properties": {
+        "name": "Тур’ї Ремети",
+        "number": "1217"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.64, 48.728]
+      },
+      "properties": {
+        "name": "Туриця",
+        "number": "1219"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.697, 49.467]
+      },
+      "properties": {
+        "name": "Tylawa",
+        "number": "1223"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.026, 49.396]
+      },
+      "properties": {
+        "name": "Tylicz",
+        "number": "1224"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.076, 48.812]
+      },
+      "properties": {
+        "name": "Тишів",
+        "number": "1228"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.628, 48.151]
+      },
+      "properties": {
+        "name": "Угля",
+        "number": "1234"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.861, 48.985]
+      },
+      "properties": {
+        "name": "Ужок",
+        "number": "1242"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.104, 48.922]
+      },
+      "properties": {
+        "name": "Valaškovce",
+        "number": "1245"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.153, 47.914]
+      },
+      "properties": {
+        "name": "Valea Vișeului",
+        "number": "1246"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.119, 48.191]
+      },
+      "properties": {
+        "name": "Велика Копаня",
+        "number": "1268"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.982, 48.236]
+      },
+      "properties": {
+        "name": "Великі Ком’яти",
+        "number": "1271"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.453, 48.886]
+      },
+      "properties": {
+        "name": "Великий Березний",
+        "number": "1274"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.008, 47.969]
+      },
+      "properties": {
+        "name": "Великий Бичків",
+        "number": "1275"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.353, 48.736]
+      },
+      "properties": {
+        "name": "Верхній Студений",
+        "number": "1284"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.744, 48.541]
+      },
+      "properties": {
+        "name": "Верхня Визниця",
+        "number": "1286"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.97, 48.007]
+      },
+      "properties": {
+        "name": "Верхнє Водяне (Верхня Апша)",
+        "number": "1288"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.156, 48.167]
+      },
+      "properties": {
+        "name": "Веряця",
+        "number": "1290"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.449, 48.715]
+      },
+      "properties": {
+        "name": "Ворочово",
+        "number": "1317"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.539, 48.449]
+      },
+      "properties": {
+        "name": "Вучкове",
+        "number": "1322"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.486, 49.143]
+      },
+      "properties": {
+        "name": "Wetlina",
+        "number": "1353"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.266, 49.496]
+      },
+      "properties": {
+        "name": "Wielopole",
+        "number": "1354"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.8, 49.43]
+      },
+      "properties": {
+        "name": "Wierchomla",
+        "number": "1356"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.979, 49.411]
+      },
+      "properties": {
+        "name": "Wisłok Górny",
+        "number": "1362"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.169, 49.228]
+      },
+      "properties": {
+        "name": "Wola Michowa",
+        "number": "1368"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.85, 49.429]
+      },
+      "properties": {
+        "name": "Wola Niżna",
+        "number": "1370"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.409, 49.335]
+      },
+      "properties": {
+        "name": "Wołkowyja",
+        "number": "1376"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.68, 49.067]
+      },
+      "properties": {
+        "name": "Wołosate",
+        "number": "1377"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.178, 49.436]
+      },
+      "properties": {
+        "name": "Wysowa",
+        "number": "1382"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.948, 48.395]
+      },
+      "properties": {
+        "name": "Загаття",
+        "number": "1390"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.516, 48.771]
+      },
+      "properties": {
+        "name": "Зарічово",
+        "number": "1401"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.987, 48.065]
+      },
+      "properties": {
+        "name": "Затисівка (Чома)",
+        "number": "1405"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.729, 49.506]
+      },
+      "properties": {
+        "name": "Zawadka Rymanowska",
+        "number": "1418"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.976, 48.773]
+      },
+      "properties": {
+        "name": "Жденієво",
+        "number": "1430"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.302, 49.374]
+      },
+      "properties": {
+        "name": "Żernica",
+        "number": "1443"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.888, 49.375]
+      },
+      "properties": {
+        "name": "Złockie",
+        "number": "1444"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.515, 48.485]
+      },
+      "properties": {
+        "name": "Зняцьово",
+        "number": "1445"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.004, 48.249]
+      },
+      "properties": {
+        "name": "Завадка",
+        "number": "1708"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.103, 49.623]
+      },
+      "properties": {
+        "name": "Pakoszówka",
+        "number": "4021"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.856, 49.558]
+      },
+      "properties": {
+        "name": "Posada Górna",
+        "number": "4062"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.153, 48.128]
+      },
+      "properties": {
+        "name": "Дубовинка",
+        "number": "4781"
+      }
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Leaflet Map</title>
+    <meta charset="utf-8" />
+    <title>Бумбарішка: пілотна мапа</title>
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -13,12 +14,16 @@
       integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
       crossorigin=""
     ></script>
-    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
     <!--    <script src="./leaflet.ajax.min.js"></script> -->
 
     <link rel="stylesheet" type="text/css" href="./index.css" />
     <script type="module" src="./index.js"></script>
-    <link rel="points" type="application/json" href="./LAZO.json" />
+    <link rel="points" type="application/json" href="./points.json" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
   </head>
   <body>
     <div id="map"></div>
